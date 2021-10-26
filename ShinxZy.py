@@ -91,8 +91,8 @@ def tod():
 # LO KONTOL
 logo = ''' \033[0;96m __  __
  \033[0;96m \ \/ / ® \033[0m|| Created By Shinzy
- \033[0;96m  \  /       \033[0m|| Github.com/shinzy24
- \033[0;96m  /_/      \033[0;91mv2.0  \033[0m|| 085740559154'''
+ \033[0;96m  \  /SHIN   \033[0m|| Github.com/shinzy24
+ \033[0;96m  /_/ZY    \033[0;91mv2.0  \033[0m|| WA 085740559154'''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
