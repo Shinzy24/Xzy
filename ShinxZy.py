@@ -90,11 +90,11 @@ def tod():
 
 # LO KONTOL
 logo = '''      (\_/)
-      (●_●)
+      (●_●) Mr.shinzy
 
 1:00●━━━━━━━━━━●04:15 ⇆　　◁　　❚❚　　▷　　↻ 　
-　CREATOR[M.ZAINUL UMAM]
- \033[0;96m || Created By Shinzy \033[0m
+　
+ \033[0;96m || Created By M.ZAINUL UMAM \033[0m
  \033[0;96m || Github.com/shinzy24 \033[0m
  \033[0;96m || WA 085740559154 \033[0;91mv2.0  \033[0m '''
 
