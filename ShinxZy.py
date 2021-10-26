@@ -89,10 +89,12 @@ def tod():
         time.sleep(1)
 
 # LO KONTOL
-logo = ''' 𝕤𝕦𝕣𝕒𝕥 𝕪𝕒𝕤𝕚𝕟 𝕦𝕟𝕥𝕦𝕜 𝕞𝕒𝕟𝕥𝕒𝕟 
-1:00●━━━━━━━━━━●04:15 ⇆　　◁　　❚❚　　▷　　↻ 　　
-　　　CREATOR|| M.ZAINUL UMAM
-\033[0;96m || Created By Shinzy \033[0m
+logo = '''         (\_/)
+      (●_●)
+
+1:00●━━━━━━━━━━●04:15 ⇆　　◁　　❚❚　　▷　　↻ 　
+　CREATOR[M.ZAINUL UMAM]
+ \033[0;96m || Created By Shinzy \033[0m
  \033[0;96m || Github.com/shinzy24 \033[0m
  \033[0;96m || WA 085740559154 \033[0;91mv2.0  \033[0m '''
 
