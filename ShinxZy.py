@@ -96,7 +96,7 @@ logo = '''      (\_/)
 　
  \033[0;96m || Created By M.ZAINUL UMAM \033[0m
  \033[0;96m || Github.com/shinzy24 \033[0m
- \033[0;96m || WA 085740559154 \033[0;91mv2.0  \033[0m '''
+ \033[0;96m || WA 085740559154 \033[0;91mv2.1  \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
