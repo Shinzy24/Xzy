@@ -1,11 +1,11 @@
 #!/usr/bin/python2
 # coding=utf-8
-# code by Yayan XD
+# code by Shinxzy
 # my facebook ( https://www.facebook.com/KM39453 )
 
 #      (C) Copyright 407 Authentic Exploit
 #      Rebuild Copyright Can't make u real programmer:)
-#      Coded By Yayan XD.
+#      Coded By Shinxzy.
 
 import os
 try:
@@ -90,10 +90,12 @@ def tod():
 
 # LO KONTOL
 logo = '''        ®
-   ╔═╗══════╔╗══╔╗═════════ 
-   ║═╬╦╦╦═╦═╣╚╗╔╝╠╦╦═╦═╦══╗ 
-   ╠═║║║║╩╣╩╣╔╣║╬║╔╣╩╣╬║║║║ 
-   ╚═╩══╩═╩═╩═╝╚═╩╝╚═╩╩╩╩╩╝ \033[0;91mMr.shinzy \033[0m
+\033[0;91m ____  _     _             _____ \033[0m
+\033[0;91m/ ___|| |__ (_)_ __ __  __|__  /   _ \033[0m
+\033[0;91m\___ \| '_ \| | '_ \\ \/ /  / / | | | \033[0m
+ ___) | | | | | | | |>  <  / /| |_| |
+|____/|_| |_|_|_| |_/_/\_\/____\__, |
+                               |___/ \033[0;91mMr.shinzy \033[0m
 
 1:00●━━━━━━━━━━●04:15 ⇆　　◁　　❚❚　　▷　　↻ 　
 　
