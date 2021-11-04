@@ -99,9 +99,9 @@ logo = '''        ®
 
 1:00●━━━━━━━━━━●04:15 ⇆　　◁　　\033[0;92m❚❚\033[0m　　▷　　↻ 　
 　
- \033[0;96m || Created By M.ZAINUL UMAM \033[0m
- \033[0;96m || Github.com/shinzy24 \033[0m
- \033[0;96m || WA 085740559154 \033[0;91mupdatev2.1  \033[0m '''
+ \033[0;92m || Created By M.ZAINUL UMAM \033[0m
+ \033[0;92m || Github.com/shinzy24 \033[0m
+ \033[0;92m || WA 085740559154 \033[0;91mupdatev2.1  \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
@@ -154,8 +154,8 @@ def moch_yayan():
     print logo
     IP = requests.get('https://api.ipify.org').text
     print '___________________________________________________________\n';time.sleep(0.03)
-    print ' (\033[0;96m•\033[0m) ACTIVE USER : %s'%(nama);time.sleep(0.03)
-    print ' (\033[0;96m•\033[0m) IP DEVICE   : %s'%(IP)
+    print ' (\033[0;92m+\033[0m) SCRIPT USERS : %s'%(nama);time.sleep(0.03)
+    print ' (\033[0;92m+\033[0m) IP DEVICE    : %s'%(IP)
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' [%s1%s]. Dump id dari teman'%(O,N);time.sleep(0.03)
     print ' [%s2%s]. Dump id dari teman publik'%(O,N);time.sleep(0.03)
