@@ -161,7 +161,7 @@ def moch_yayan():
     print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
     print ' [%s3%s]. Dump id followers'%(O,N);time.sleep(0.03)
     print ' [%s4%s]. Dump id postingan'%(O,N);time.sleep(0.03)
-    print ' [%s5%s].\033[0;92m Start crack'%(O,N);time.sleep(0.03) \033[0m
+    print ' [%s5%s]. Start crack'%(O,N);time.sleep(0.03)
     print ' [%s6%s]. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
     print ' [%s7%s]. Lihat hasil crack'%(O,N);time.sleep(0.03)
     print ' [%s8%s]. Settings user agent'%(O,N);time.sleep(0.03)
