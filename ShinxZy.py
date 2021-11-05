@@ -59,7 +59,7 @@ N = '\x1b[0m'    # WARNA MATI
 my_color = [
  P, M, H, K, B, U, O, N]
 warna = random.choice(my_color)
-#  Moch Yayan Juan Alvredo XD.  #
+#  M Zainul Umam tukang cilok.  #
 #------------------------------->
 
 ok = []
@@ -89,19 +89,19 @@ def tod():
         time.sleep(1)
 
 # LO KONTOL
-logo = '''        ®
+logo = '''  \033[0;92m programing by:Xzy \033[0m
 \033[0;91m ____  _     _             _____ \033[0m
 \033[0;91m/ ___|| |__ (_)_ __ __  __|__  /   _ \033[0m
-\033[0;91m\___ \| '_ \| | '_' \\ \/ /  / / | | | \033[0m
-\033[0;96m ___) | | | | | | | |>  <  / /| |_| | \033[0m
+\033[0;92m\___ \| '_ \| | '_' \\ \/ /  / / | | | \033[0m
+\033[0;92m ___) | | | | | | | |>  <  / /| |_| | \033[0m
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
 \033[0;96m                               |___/ \033[0m \033[0;91mMr.shinzy \033[0m
 
 1:00●━━━━━━━━━━●04:15 ⇆　　◁　　\033[0;92m❚❚\033[0m　　▷　　↻ 　
 　
- \033[0;92m || Created By M.ZAINUL UMAM \033[0m
- \033[0;92m || Github.com/shinzy24 \033[0m
- \033[0;92m || WA 085740559154 \033[0;91mupdatev2.1  \033[0m '''
+ \033[0;92m [+] Created By M.ZAINUL UMAM \033[0m
+ \033[0;92m [+] Github.com/shinzy24 \033[0m
+ \033[0;92m [+] WA +6285740559154 \033[0;91mupdatev3.1  \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
@@ -157,11 +157,11 @@ def moch_yayan():
     print ' (\033[0;92m+\033[0m) SCRIPT USERS : %s'%(nama);time.sleep(0.03)
     print ' (\033[0;92m+\033[0m) IP DEVICE    : %s'%(IP)
     print '___________________________________________________________\n';time.sleep(0.03)
-    print ' [%s1%s]. Dump id dari teman'%(O,N);time.sleep(0.03)
-    print ' [%s2%s]. Dump id dari teman publik'%(O,N);time.sleep(0.03)
-    print ' [%s3%s]. Dump id dari total followers'%(O,N);time.sleep(0.03)
-    print ' [%s4%s]. Dump id dari like postingan'%(O,N);time.sleep(0.03)
-    print ' [%s5%s]. Start crack'%(O,N);time.sleep(0.03)
+    print ' [%s1%s]. Dump id teman'%(O,N);time.sleep(0.03)
+    print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
+    print ' [%s3%s]. Dump id followers'%(O,N);time.sleep(0.03)
+    print ' [%s4%s]. Dump id postingan'%(O,N);time.sleep(0.03)
+    print ' [%s5%s].\033[0;92m Start crack'%(O,N);time.sleep(0.03) \033[0m
     print ' [%s6%s]. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
     print ' [%s7%s]. Lihat hasil crack'%(O,N);time.sleep(0.03)
     print ' [%s8%s]. Settings user agent'%(O,N);time.sleep(0.03)
