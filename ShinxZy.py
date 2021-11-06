@@ -523,15 +523,15 @@ def cek_ingfo(kontol):
 def info_tools():
     os.system('clear')
     print ' %s[%s#%s]'%(N,O,N), 52 * '\x1b[1;96m-\x1b[0m';time.sleep(0.07)
-    print '\n %s[%s>%s] Yt       : Yayan XD.'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Author   : Moch Yayan Juan Alvredo XD.'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Github   : https://github.com/Yayan-XD'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Facebook : https://www.facebook.com/KM39453'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Fanspage : https://www.facebook.com/Yayanxyz'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Instagram: https://www.instagram.com/yayanxd_'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Blogspot : https://squadcyberpeopleteam.blogspot.com'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Yt       : Gak due.'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Author   : Muhammad Zainul Umam.'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Github   : https://github.com/Shinzy24'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Facebook : https://www.facebook.com/100069713181960'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Fanspage : https://www.facebook.com/100069713181960'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Instagram: https://www.instagram.com/shin_ze04'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Blogspot : https://shinhackzy.com'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s#%s]'%(N,O,N), 52 * '\x1b[1;96m-\x1b[0m';time.sleep(0.07)
-    raw_input('\n  [ %sKEMBALI%s ] '%(O,N));moch_yayan()
+    raw_input('\n  [ %sKEMBALI%s ] '%(O,N));moch_zainul()
 
 ### ganti user agent
 def seting_yntkts():
