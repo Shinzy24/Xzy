@@ -95,9 +95,9 @@ logo = '''  \033[0;92m programing by:Xzy \033[0m
 \033[0;92m\___ \| '_ \| | '_' \\ \/ /  / / | | | \033[0m
 \033[0;92m ___) | | | | | | | |>  <  / /| |_| | \033[0m
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
-\033[0;96m                               |___/ \033[0m \033[0;91mMr.shinzy \033[0m
+\033[0;96m                                |___/ \033[0m \033[0;91mMr.shinzy \033[0m
 
-1:00●━━━━━━━━━━●04:15 ⇆　　◁　　\033[0;92m❚❚\033[0m　　▷　　↻ 　
+\033[0;91m 1:00●━━━━━━━━━━●04:15 \033[0m ⇆　　◁　　\033[0;92m❚❚\033[0m　　▷　　↻ 　
 　
  \033[0;92m [+] Created By M.ZAINUL UMAM \033[0m
  \033[0;92m [+] Github.com/shinzy24 \033[0m
@@ -531,7 +531,7 @@ def info_tools():
     print '\n %s[%s>%s] Instagram: https://www.instagram.com/shin_ze04'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Blogspot : https://shinhackzy.com'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s#%s]'%(N,O,N), 52 * '\x1b[1;96m-\x1b[0m';time.sleep(0.07)
-    raw_input('\n  [ %sKEMBALI%s ] '%(O,N));moch_zainul()
+    raw_input('\n  [ %sKEMBALI%s ] '%(O,N));moch_yayan()
 
 ### ganti user agent
 def seting_yntkts():
