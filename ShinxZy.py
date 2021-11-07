@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # coding=utf-8
 # code by Shinxzy
-# my facebook ( https://www.facebook.com/KM39453 )
+# my facebook ( https://www.facebook.com/100069713181960 )
 
 #      (C) Copyright 407 Authentic Exploit
 #      Rebuild Copyright Can't make u real programmer:)
@@ -101,7 +101,7 @@ logo = '''\033[0;92m programing by:SHINZY \033[0m
 　
  \033[0;92m [+] Created By M.ZAINUL UMAM \033[0m
  \033[0;92m [+] Github.com/shinzy24 \033[0m
- \033[0;92m [+] WA +6285740559154 \033[0;91mupdatev3.1  \033[0m '''
+ \033[0;92m [+] WA +6285740559154 \033[0;91mupdatev3.2  \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
@@ -156,6 +156,7 @@ def moch_yayan():
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' (\033[0;92m+\033[0m) SCRIPT USERS : %s'%(nama);time.sleep(0.03)
     print ' (\033[0;92m+\033[0m) IP DEVICE    : %s'%(IP)
+    print ' (\033[0;92m+\033[0m) STATUS       : %s'%(PREMIUM)
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' [%s1%s]. Dump id teman'%(O,N);time.sleep(0.03)
     print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
