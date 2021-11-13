@@ -97,7 +97,7 @@ logo = '''\033[0;92m programing by:SHINZY \033[0m
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
 \033[0;96m                               |___/ \033[0m \033[0;92mPREMIUM AKTIF \033[0m
 
- \033[0;95m NEW SCRIPT PROJECT \033[0m 　　\033[0;92mFACEBOOK CRACKING\033[0m 　
+ \033[0;91m 🖕😎FACEBOOK CRACK NEW PROJECT😎🖕\033[0m 　
 　
  \033[0;92m [+] Created By M.ZAINUL UMAM \033[0m
  \033[0;92m [+] Github.com/shinzy24 \033[0m
