@@ -161,7 +161,7 @@ def moch_yayan():
     print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
     print ' [%s3%s]. Dump id followers'%(O,N);time.sleep(0.03)
     print ' [%s4%s]. Dump id postingan'%(O,N);time.sleep(0.03)
-    print ' [%s5%s]. Start crack'%(O,N);time.sleep(0.03)
+    print ' [%s5%s]. START CRACK'%(O,N);time.sleep(0.03)
     print ' [%s6%s]. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
     print ' [%s7%s]. Lihat hasil crack'%(O,N);time.sleep(0.03)
     print ' [%s8%s]. Settings user agent'%(O,N);time.sleep(0.03)
@@ -643,15 +643,15 @@ class __crack__:
                             print '\n %s[%s×%s] input yang bener'%(N,M,N);self.__yan__()
                     print '\n [ pilih method login - silahkan coba satu² ]\n'
                     print ' [%s1%s]. method API (fast)'%(O,N)
-                    print ' [%s2%s]. method mbasic (slow)'%(O,N)
-                    print ' [%s3%s]. method mobile (super slow)'%(O,N)
+                    print ' [%s2%s]. method mbasic (rekomendasi)'%(O,N)
+                    print ' [%s3%s]. method mobile (slow)'%(O,N)
                     __yan__(pwek.split(','))
                     break
         elif ___yayanganteng___ in ('T', 't'):
             print '\n [ pilih method login - silahkan coba satu² ]\n'
             print ' [%s1%s]. method API (fast)'%(O,N)
-            print ' [%s2%s]. method mbasic (slow)'%(O,N)
-            print ' [%s3%s]. method mobile (super slow)'%(O,N)
+            print ' [%s2%s]. method mbasic (rekomendasi)'%(O,N)
+            print ' [%s3%s]. method mobile (slow)'%(O,N)
             self.__pler__()
         else:
             print '\n %s[%s×%s] y/t goblok!'%(N,M,N);time.sleep(2);moch_yayan()
