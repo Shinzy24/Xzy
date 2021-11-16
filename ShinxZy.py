@@ -99,7 +99,7 @@ logo = '''\033[0;92m programing by:SHINZY \033[0m
 
  \033[0;91m 🖕😎WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91mCRACK TOOLS😎🖕\033[0m 　
 　
- \033[0;94m [👉] Created by M.ZAINUL UMAM \033[0m
+ \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email:zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Github.com/shinzy24 \033[0m
  \033[0;92m [👉] WA +6285740559154 \033[0;91mupdatev3.5  \033[0m '''
