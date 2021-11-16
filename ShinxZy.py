@@ -99,6 +99,7 @@ logo = '''\033[0;92m programing by:SHINZY \033[0m
 
  \033[0;91m 🖕😎FACEBOOK CRACK NEW PROJECT😎🖕\033[0m 　
 　
+ \033[0;92m [👉] Email:zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Created By M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Github.com/shinzy24 \033[0m
  \033[0;92m [👉] WA +6285740559154 \033[0;91mupdatev3.5  \033[0m '''
