@@ -89,20 +89,20 @@ def tod():
         time.sleep(1)
 
 # LO KONTOL
-logo = '''\033[0;92m programing by:SHINZY \033[0m
+logo = '''\033[0;92m programmer by:SHINZY \033[0m
 \033[0;91m ____  _     _             _____ \033[0m
 \033[0;91m/ ___|| |__ (_)_ __ __  __|__  /   _ \033[0m
 \033[0;92m\___ \| '_ \| | '_' \\ \/ /  / / | | | \033[0m
 \033[0;92m ___) | | | | | | | |>  <  / /| |_| | \033[0m
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
-\033[0;96m                               |___/ \033[0m \033[0;92mPREMIUM AKTIF \033[0m
+\033[0;96m                               |___/ \033[0m \033[0;92mPREMIUM ACTIVE \033[0m
 
- \033[0;91m 🖕😎WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91mCRACK TOOLS😎🖕\033[0m 　
+ \033[0;91m 🖕😤👉WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91mCRACK TOOLS👈😤🖕\033[0m 　
 　
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
- \033[0;92m [👉] Email:zyshin41@gmail.com \033[0m
- \033[0;92m [👉] Github.com/shinzy24 \033[0m
- \033[0;92m [👉] WA +6285740559154 \033[0;91mupdate V3.6 beta  \033[0m '''
+ \033[0;92m [👉] Email =zyshin41@gmail.com \033[0m
+ \033[0;92m [👉] Bisnis=hig_rnh76@shinzy.com \033[0m
+ \033[0;92m [👉] IG @shin_ze04\033[0;91mupdate V3.6 beta  \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
@@ -155,19 +155,19 @@ def moch_yayan():
     print logo
     IP = requests.get('https://api.ipify.org').text
     print '___________________________________________________________\n';time.sleep(0.03)
-    print ' (\033[0;96m+\033[0m) \033[0;96mSCRIPT USERS \033[0m : %s'%(nama);time.sleep(0.03)
-    print ' (\033[0;96m+\033[0m) \033[0;96mIP DEVICE \033[0m    : %s'%(IP)
+    print ' (\033[0;96m+\033[0m) \033[0;93mSCRIPT USERNAME \033[0m : %s'%(nama);time.sleep(0.03)
+    print ' (\033[0;96m+\033[0m) \033[0;93mYOUR IP DEVICE \033[0m  : %s'%(IP)
     print '___________________________________________________________\n';time.sleep(0.03)
-    print ' [%s1%s]. Dump id teman'%(O,N);time.sleep(0.03)
-    print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
-    print ' [%s3%s]. Dump id followers'%(O,N);time.sleep(0.03)
-    print ' [%s4%s]. Dump id postingan'%(O,N);time.sleep(0.03)
-    print ' [%s5%s]. START CRACK'%(O,N);time.sleep(0.03)
-    print ' [%s6%s]. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
-    print ' [%s7%s]. Lihat hasil crack'%(O,N);time.sleep(0.03)
-    print ' [%s8%s]. Settings user agent'%(O,N);time.sleep(0.03)
-    print ' [%s9%s]. Info %sscript%s'%(O,N,O,N);time.sleep(0.03)
-    print ' [%s0%s]. logout (%shapus token%s)'%(M,N,M,N);time.sleep(0.03)
+    print ' {%s1%s}. Dump id teman'%(O,N);time.sleep(0.03)
+    print ' {%s2%s}. Dump id publik'%(O,N);time.sleep(0.03)
+    print ' {%s3%s}. Dump id followers'%(O,N);time.sleep(0.03)
+    print ' {%s4%s}. Dump id postingan'%(O,N);time.sleep(0.03)
+    print ' {%s5%s}. START CRACK'%(O,N);time.sleep(0.03)
+    print ' {%s6%s}. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
+    print ' {%s7%s}. Lihat hasil crack'%(O,N);time.sleep(0.03)
+    print ' {%s8%s}. Settings user agent'%(O,N);time.sleep(0.03)
+    print ' {%s9%s}. Info %sscript%s'%(O,N,O,N);time.sleep(0.03)
+    print ' {%s0%s}. logout (%shapus token%s)'%(M,N,M,N);time.sleep(0.03)
     pepek = raw_input('\n [*] menu : ')
     if pepek == '':
         print '\n %s[%s×%s] jangan kosong kentod!'%(N,M,N);time.sleep(2);moch_yayan()
