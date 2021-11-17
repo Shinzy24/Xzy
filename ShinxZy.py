@@ -102,7 +102,7 @@ logo = '''\033[0;92m programing by:SHINZY \033[0m
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email:zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Github.com/shinzy24 \033[0m
- \033[0;92m [👉] WA +6285740559154 \033[0;91mupdatev3.5  \033[0m '''
+ \033[0;92m [👉] WA +6285740559154 \033[0;91mupdatev3.6 beta  \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
@@ -155,8 +155,8 @@ def moch_yayan():
     print logo
     IP = requests.get('https://api.ipify.org').text
     print '___________________________________________________________\n';time.sleep(0.03)
-    print ' (\033[0;92m+\033[0m) \033[0;91mSCRIPT USERS \033[0m : %s'%(nama);time.sleep(0.03)
-    print ' (\033[0;92m+\033[0m) \033[0;91mIP DEVICE \033[0m    : %s'%(IP)
+    print ' (\033[0;94m+\033[0m) \033[0;91mSCRIPT USERS \033[0m : %s'%(nama);time.sleep(0.03)
+    print ' (\033[0;94m+\033[0m) \033[0;91mIP DEVICE \033[0m    : %s'%(IP)
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' [%s1%s]. Dump id teman'%(O,N);time.sleep(0.03)
     print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
