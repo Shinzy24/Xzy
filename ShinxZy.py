@@ -100,9 +100,9 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
  \033[0;91m 🖕😤👉WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91mCRACK TOOLS👈😤🖕\033[0m 　
 　
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
- \033[0;92m [👉] Email =zyshin41@gmail.com \033[0m
- \033[0;92m [👉] Bisnis=hig_rnh76@shinzy.com \033[0m
- \033[0;92m [👉] IG @shin_ze04\033[0;91mupdate V3.6 beta  \033[0m '''
+ \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
+ \033[0;92m [👉] Bisnis:hig_rnh76@shinzy.com \033[0m
+ \033[0;92m [👉] WA    :+6285740559154\033  [0;91mupdate V3.6 \033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
