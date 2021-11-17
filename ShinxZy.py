@@ -157,6 +157,7 @@ def moch_yayan():
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' (\033[0;92m+\033[0m) SCRIPT USERS : %s'%(nama);time.sleep(0.03)
     print ' (\033[0;92m+\033[0m) IP DEVICE    : %s'%(IP)
+    print ' (\033[0;92m+\033[0m) USER AGENT  : #{$ua.device.name}")
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' [%s1%s]. Dump id teman'%(O,N);time.sleep(0.03)
     print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
