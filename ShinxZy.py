@@ -155,8 +155,8 @@ def moch_yayan():
     print logo
     IP = requests.get('https://api.ipify.org').text
     print '___________________________________________________________\n';time.sleep(0.03)
-    print ' (\033[0;92m+\033[0m) \033[0;92mSCRIPT USERS\033[0m : %s'%(nama);time.sleep(0.03)
-    print ' (\033[0;92m+\033[0m) \033[0;92mIP DEVICE\033[0m   : %s'%(IP)
+    print ' (\033[0;92m+\033[0m) SCRIPT USERS : %s'%(nama);time.sleep(0.03)
+    print ' (\033[0;92m+\033[0m) IP DEVICE    : %s'%(IP)
     print '___________________________________________________________\n';time.sleep(0.03)
     print ' [%s1%s]. Dump id teman'%(O,N);time.sleep(0.03)
     print ' [%s2%s]. Dump id publik'%(O,N);time.sleep(0.03)
