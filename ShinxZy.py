@@ -97,13 +97,13 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
 \033[0;96m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
 \033[0;96m                               |___/ \033[0m \033[0;92mPREMIUM AKTIF \033[0m
 
- \033[0;91m 🖕😤👉WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91mCRACK TOOLS👈😤🖕\033[0m 　
+ \033[0;91m 🖕😤👉WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91m CRACK TOOLS👈😤🖕\033[0m 　
 　
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Bisnis:hig_rnh76@shinzy.com \033[0m
- \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96V3.6 \033[0m
-        \033[0;91mupdate sistem/delete IP ilegal \033[0m '''
+ \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV3.6 \033[0m
+   \033[0;91mOJO KULINAKNO CRACK WONG SERAH LUR AKU SENG KEPAIDO🤣\033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
