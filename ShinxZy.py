@@ -295,7 +295,7 @@ def publik(kontol):
         raw_input(' [%s ENTER%s ] '%(O,N));moch_yayan()
     except (KeyError,IOError):
         os.remove(knt)
-        jalan('\n %s[%s!%s] Gagal dump id, kemungkinan id tidaklah publik.\n'%(N,M,N))
+        jalan('\n %s[%s!%s] Gagal dump id, kemungkinan Anda belum coli.\n'%(N,M,N))
         raw_input(' [ %sKEMBALI%s ] '%(O,N));moch_yayan()
 
 # dump id dari followers hehe
@@ -524,7 +524,7 @@ def cek_ingfo(kontol):
 def info_tools():
     os.system('clear')
     print ' %s[%s#%s]'%(N,O,N), 52 * '\x1b[1;96m-\x1b[0m';time.sleep(0.07)
-    print '\n %s[%s>%s] Yt       : Gak due.'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Donasi   : 081237346234(Dana).'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Author   : Muhammad Zainul Umam.'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Github   : https://github.com/Shinzy24'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Facebook : https://www.facebook.com/100069713181960'%(N,H,N);time.sleep(0.07)
