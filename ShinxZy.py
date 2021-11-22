@@ -103,7 +103,7 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
  \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Bisnis:hig_rnh76@shinzy.com \033[0m
  \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV3.6 \033[0m
-   \033[0;91mOJO KULINAKNO CRACK WONG SERAH LUR AKU SENG KEPAIDO🤣\033[0m '''
+   \033[0;91mCRACK FACEBOOK LUAR NEGRI AE LUR,ADD CEK GK OPJEK\033[0m '''
 
 lo_ngentod = '1714009362122228'
 # crack selesai
