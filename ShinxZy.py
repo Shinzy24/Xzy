@@ -97,7 +97,7 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
 \033[0;92m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
 \033[0;92m                               |___/ \033[0m \033[0;92mPREMIUM AKTIF \033[0m
 
- \033[0;91m 🖕😤👉WELCOME TO \033[0;92mSHINXZY\033[0m \033[0;91m CRACK TOOLS👈😤🖕\033[0m 　
+ \033[0;91m LIBOR CRACK JARNO WONGE GAWE FB MANE SEK WKWWKWK\033[0m 　
 　
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
