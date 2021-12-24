@@ -102,7 +102,7 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Bisnis:hig_rnh76@shinzy.com \033[0m
- \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV4.2 \033[0m
+ \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV4.3 \033[0m
    \033[0;91mFACEBOOK CRACK SUPPORTED BY\033[0m \033[0;93mSHIN_X_TEAM\033[0m'''
 
 lo_ngentod = '1714009362122228'
