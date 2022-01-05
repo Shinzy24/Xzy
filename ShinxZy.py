@@ -95,14 +95,14 @@ logo = '''\033[0;92m programmer by:SHINZY \033[0m
 \033[0;93m\___ \| '_ \| | '_' \\ \/ /  / / | | | \033[0m
 \033[0;93m ___) | | | | | | | |>  <  / /| |_| | \033[0m
 \033[0;92m|____/|_| |_|_|_| |_/_/\_\/____\__, | \033[0m
-\033[0;92m                               |___/ \033[0m \033[0;92mPREMIUM AKTIF \033[0m
+\033[0;92m                               |___/ \033[0m \033[0;94mPREMIUM AKTIF \033[0m
 
- \033[0;92m STOP SEBAR SCRIPT, SEBELUM IZIN KE AUTHOR MR.SHINZY\033[0m 　
+ \033[0;92m JOMBLO DI LARANG KERAS MENGGUNAKAN SCRIPT INI🙏🙏🤣\033[0m 　
 　
  \033[0;93m [👉] Created by M.ZAINUL UMAM \033[0m
  \033[0;92m [👉] Email :zyshin41@gmail.com \033[0m
  \033[0;92m [👉] Bisnis:hig_rnh76@shinzy.com \033[0m
- \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV4.4 \033[0m
+ \033[0;92m [👉] WA    :+6285740559154 \033[0m  \033[0;96mV4.5 \033[0m
    \033[0;91mFACEBOOK CRACK SUPPORTED BY\033[0m \033[0;93mSHIN_X_TEAM\033[0m'''
 
 lo_ngentod = '1714009362122228'
@@ -165,9 +165,9 @@ def moch_yayan():
     print ' {%s4%s}. Dump id postingan'%(O,N);time.sleep(0.03)
     print ' {%s5%s}. START CRACK'%(O,N);time.sleep(0.03)
     print ' {%s6%s}. Check ingformasi akun fb'%(O,N);time.sleep(0.03)
-    print ' {%s7%s}. Lihat hasil crack'%(O,N);time.sleep(0.03)
+    print ' {%s7%s}. Lihat hasil crack/result'%(O,N);time.sleep(0.03)
     print ' {%s8%s}. Settings user agent'%(O,N);time.sleep(0.03)
-    print ' {%s9%s}. Info %sscript%s'%(O,N,O,N);time.sleep(0.03)
+    print ' {%s9%s}. Info script %sscript%s'%(O,N,O,N);time.sleep(0.03)
     print ' {%s0%s}. logout (%shapus token%s)'%(M,N,M,N);time.sleep(0.03)
     pepek = raw_input('\n [*] menu : ')
     if pepek == '':
