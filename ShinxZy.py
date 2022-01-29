@@ -124,12 +124,12 @@ def folder(): # < Buat follder
 # BUAT LOGO
 def banner():
 	print('''
-\033[0;35m  ____________________________________________________
-\033[0;35m | MULTI BRUTE FACEBOOK SHINZYV3                      |
-\033[0;35m | CREATE BY MUHAMMAD ZAINUL UMAM                     |
-\033[0;33m | TRIMAKASIH TELAH MENGGUNAKAN SCRIPT INI            |
-\033[0;33m | JIKA ADA BUG SEGERAH HUBUNGI ADMIN(WA)085740559154 |
-\033[0;33m  ××××××××××××××××××××××××××××××××××××××××××××××××××××
+\033[0;32m  ____________________________________________________
+\033[0;32m | MULTI BRUTE FACEBOOK SHINZYV3                      |
+\033[0;32m | CREATE BY MUHAMMAD ZAINUL UMAM                     |
+\033[0;32m | TRIMAKASIH TELAH MENGGUNAKAN SCRIPT INI            |
+\033[0;32m | JIKA ADA BUG SEGERAH HUBUNGI ADMIN(WA)085740559154 |
+\033[0;32m  ××××××××××××××××××××××××××××××××××××××××××××××××××××
 ''')
 header = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": "NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+ ;]", "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
 def mmmasuk():
