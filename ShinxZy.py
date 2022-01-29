@@ -130,6 +130,8 @@ def banner():
 \033[0;32m | TRIMAKASIH TELAH MENGGUNAKAN SCRIPT INI            |
 \033[0;32m | JIKA ADA BUG SEGERAH HUBUNGI ADMIN(WA)085740559154 |
 \033[0;32m  ××××××××××××××××××××××××××××××××××××××××××××××××××××
+
+\033[0;33m •PLIS JANGAN DI JUAL BELIKAN SCRIPT INI CAPEK GW BUATNYA ASU•
 ''')
 header = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": "NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+ ;]", "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
 def mmmasuk():
@@ -199,14 +201,14 @@ def menu():
     print(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m User id   : %s "%(id))
     print(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Alamat ip : %s "%(IP))
     print(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m============================================>")
-    print(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;33m Starts Crack \033[0;00m[ \033[0;33mMULAI \033[0;00m]")
-    print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Dump id Publick \033[0;36m[ \033[0;00m4000+ \033[0;36m]")
-    print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Dump id reactionts post \033[0;33m[ \033[0;00m500+ \033[0;33m]")
-    print(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Dump followers \033[0;33m[ \033[0;00m500+ \033[0;33m]")
-    print(" \033[0;36m[\033[0;35m5\033[0;36m]\033[0;00m Ganti user/agent \033[0;33m[ \033[0;35mSETTING \033[0;33m]")
-    print(" \033[0;36m[\033[0;35m6\033[0;36m]\033[0;00m Chek hasil crack \033[0;33m[ \033[0;00mLIHAT \033[0;33m]")
+    print(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;33m Starts Crack ")
+    print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Dump id Publick ")
+    print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Dump id reactionts post ")
+    print(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Dump followers ")
+    print(" \033[0;36m[\033[0;35m5\033[0;36m]\033[0;00m Ganti user/agent ")
+    print(" \033[0;36m[\033[0;35m6\033[0;36m]\033[0;00m Chek hasil crack ")
     print(" \033[0;36m[\033[0;35m7\033[0;36m]\033[0;00m Chek opsi akun cp ")
-    print(" \033[0;36m[\033[0;35m0\033[0;36m]\033[0;00m Delet [ TOKEN ] \033[0;33m[ \033[0;00mHAPUS \033[0;33m] ")
+    print(" \033[0;36m[\033[0;35m0\033[0;36m]\033[0;00m Delet [ TOKEN ] ")
     __jeeck__gz__x__xnxcode__ = raw_input(" \n \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Menu : ")
     if __jeeck__gz__x__xnxcode__ == '':
         print(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");jeda(2);menu()
