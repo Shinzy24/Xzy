@@ -985,3 +985,55 @@ if __name__ == '__main__':
     os.system('git pull')
     folder()
     menu()
+
+os.environ['NO_PROXY'] = os.environ['no_proxy'] = '127.0.0.1,localhost,.local'
+
+r = requests.get('https://example.com')  # , verify=False
+— qräbnö
+ sumber
+1
+di sini adalah kelas dasar saya di python untuk modul permintaan dengan beberapa konfigurasi proxy dan stopwatch!
+
+import requests
+import time
+class BaseCheck():
+    def __init__(self, url):
+        self.http_proxy  = "http://user:pw@proxy:8080"
+        self.https_proxy = "http://user:pw@proxy:8080"
+        self.ftp_proxy   = "http://user:pw@proxy:8080"
+        self.proxyDict = {
+                      "http"  : self.http_proxy,
+                      "https" : self.https_proxy,
+                      "ftp"   : self.ftp_proxy
+                    }
+        self.url = url
+        def makearr(tsteps):
+            global stemps
+            global steps
+            stemps = {}
+            for step in tsteps:
+                stemps[step] = { 'start': 0, 'end': 0 }
+            steps = tsteps
+        makearr(['init','check'])
+        def starttime(typ = ""):
+            for stemp in stemps:
+                if typ == "":
+                    stemps[stemp]['start'] = time.time()
+                else:
+                    stemps[stemp][typ] = time.time()
+        starttime()
+    def __str__(self):
+        return str(self.url)
+    def getrequests(self):
+        g=requests.get(self.url,proxies=self.proxyDict)
+        print g.status_code
+        print g.content
+        print self.url
+        stemps['init']['end'] = time.time()
+        #print stemps['init']['end'] - stemps['init']['start']
+        x= stemps['init']['end'] - stemps['init']['start']
+        print x
+
+
+test=BaseCheck(url='http://google.com')
+test.getrequests()
