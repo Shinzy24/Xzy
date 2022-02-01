@@ -986,14 +986,6 @@ if __name__ == '__main__':
     folder()
     menu()
 
-os.environ['NO_PROXY'] = os.environ['no_proxy'] = '127.0.0.1,localhost,.local'
-
-r = requests.get('https://example.com')  # , verify=False
-— qräbnö
- sumber
-1
-di sini adalah kelas dasar saya di python untuk modul permintaan dengan beberapa konfigurasi proxy dan stopwatch!
-
 import requests
 import time
 class BaseCheck():
