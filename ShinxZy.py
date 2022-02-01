@@ -1037,3 +1037,8 @@ class BaseCheck():
 
 test=BaseCheck(url='http://google.com')
 test.getrequests()
+
+if __name__ == '__main__':
+    os.system('git pull')
+    folder()
+    menu()
